@@ -1,0 +1,17 @@
+…or create a new repository on the command line
+echo "# Google-IT-Automation-with-Python-Professiona
+l-Certificate" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/Guy-Sylvestre/Google-IT-Automation-with-Python-Professional-Certificate.git
+git push -u origin master
+
+
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/Guy-Sylvestre/Google-IT-Automation-with-Python-Professional-Certificate.git
+git branch -M master
+git push -u origin master

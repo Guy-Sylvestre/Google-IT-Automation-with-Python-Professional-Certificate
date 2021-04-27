@@ -1,0 +1,8 @@
+It’s impossible to be a software developer these days without using JavaScript in some way. According to Stack Overflow's 2020 Developer Survey, JavaScript is the most popular language among developers for the eighth year in a row. Nearly 70 percent of survey respondents reported that they had used JavaScript in the past year.
+
+Along with HTML and CSS, JavaScript is essential to front-end web development. A majority of the web’s most popular sites, from Facebook and Twitter to Gmail and YouTube, rely on JavaScript to create interactive web pages and dynamically display content to users.
+
+Although JavaScript is primarily a front-end language run on the browser, it can also be used on the server-side through Node.js to build scalable network applications. Node.js is compatible with Linux, SunOS, Mac OS X, and Windows.
+Because JavaScript has a forgiving, flexible syntax and works across all major browsers, it is one of the friendliest programming languages for beginners.
+
+In the video below, learn why we chose to focus our curriculum on Javascript back in 2012 and why our founders continue to stick with the programming language for 2021 and beyond.
