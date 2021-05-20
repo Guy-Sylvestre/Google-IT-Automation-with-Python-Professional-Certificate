@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """ sante du disque """
-
+from network import *
 import shutil
 import psutil
 
@@ -17,5 +17,7 @@ def check_cpu_usage():
 
 if not check_disk_usage("/") or not check_cpu_usage():
 	print("ERROR!")
+elif check_localhost() and check_connectivity():
+	print("Everything ok")
 else:
-	print("Everything is OK!")
+	print("Network checks failed")
